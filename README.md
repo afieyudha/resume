@@ -1,4 +1,4 @@
-# resume
+# resume OR CV (Curiculum Vitae)
 Belajar Dasar Pemrograman Web (Dicoding)
 Disusun oleh: CodePolitan
 
