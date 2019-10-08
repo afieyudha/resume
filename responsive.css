@@ -1,0 +1,36 @@
+@media only screen and (max-width: 740px) {
+	h1 { font-size: 4.5em; }
+	h3 { font-size: 2.2em; }
+	h2 { display: block; text-align: center; }
+	#info { float: none; display: block; text-align: center; }
+	#info1 { float: none; display: block; text-align: center; }
+	#photo {
+		float: none;
+		display: block;
+		text-align: center;
+	}
+	#personal { padding: 20px 15px; }
+	p { float: none; display: block; text-align: center; padding: 0; }
+}
+
+@media only screen and (max-width: 480px) {
+	ul li { width: 120px; }
+	#personal { margin: 0 20px; }
+	/* #linkedin { margin: 10px; } */
+	/* #personal { margin: 0 20px; }
+	#medium { margin: 0 20px; } */
+}
+
+@media only screen and (max-width: 320px) {
+	/* #linkedin { margin: 0 10px; } */
+	/* #github { margin: 0 10px; }
+	#medium { margin: 0 10px; } */
+}
+
+/** iPhone only **/
+@media screen and (max-device-width: 480px) {
+	ul li { width: 150px; }
+	/* #linkedin { width: 150px; } */
+	/* #github { width: 150px; }
+	#medium { width: 150px; } */
+}
